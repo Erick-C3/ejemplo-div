@@ -1,0 +1,18 @@
+#contenedor-2{
+    background-color: blue;
+    border: 2px solid #808080;
+    margin: 1.8px;
+    color: white;
+}
+
+#contenedor-3{
+    background-color: rgb(127, 127, 189);
+    border: 5px dotted #e11515;
+    margin: 1.8px;
+    color: rgb(141, 207, 140);
+}
+
+fieldset{
+    color: red;
+    background-color: yellow;
+}
